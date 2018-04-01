@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="food">Be sure to buy groceries for dinner tonight.</string>
+    <string name="dog">Walk the dog before going to Jerry\'s.</string>
+    <string name="report">Send the last report.</string>
+    <string name="call">Call mom for her birthday.</string>
+    <string name="sub">Cancel subscription to New Yorker.</string>
+    <string name="pay">Pay ConEd and Dog Sitter.</string>
+    <string name="ask">Confirm with Nancy when the meeting is next week.</string>
+    <string name="high">High Priority</string>
+    <string name="medium">Medium Priority</string>
+    <string name="low">Low Priority</string>
+    <string name="sure">Are you sure that\'s the correct task?</string>
+</resources>
